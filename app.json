@@ -1,15 +1,16 @@
+
 {
-    "name": "ALEXA QUEEN_V2",
-    "description": "ALEXA is the Modified Version of WhatsAsena, Made By @CYBERXKID with Baileys.",
-    "logo": "https://i.ibb.co/N6b6cv3/Maalutty.png",
+    "name": "CYBERXKID_V2",
+    "description": "CYBERXKID is the Modified Version of WhatsAsena, Made By @nijin-husni with Baileys.",
+    "logo": "https://i.ibb.co/N6b6cv3/CYBERXKID.png",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/CYBERXKID/Alexa_V2",
     "website":   "https://github.com/CYBERXKID/Alexa_V2",
     "success_url": "https://github.com/CYBERXKID/Alexa_V2",
     "stack": "container",
     "env": {
-         ALEXA_SESSION": {
-            "description": "Type here yours Alexa Session.",
+        "CYBERTRON_SESSION": {
+            "description": "Type here yours CYBERXKID Session.",
             "required": true
         },
         "SUDO": {
@@ -123,10 +124,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "❤️ALEXA QUEEN_V2💙"
+            "value": "❤️CYBERXKID_V2💙"
         },
         "WORK_TYPE": {
-            "description": "Alexa Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "CYBERXKID Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -157,7 +158,7 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "*alexa song download aakkatte😀*"
+            "value": "*CYBERXKID song download aakkatte😀*"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
