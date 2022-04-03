@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /maalutty/Dockerfile
+      worker: /cyberxkid/Dockerfile
 run:
    worker: npm start
