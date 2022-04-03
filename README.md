@@ -71,6 +71,13 @@ $ node alexaqueen.js
 <a href="https://github.com/CYBERXKID/Alexa_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/CYBERXKID/Alexa_V2?color=blue&style=flat-trangle"></a>
 </p>
 
+[💻Alexa Queen bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+The user is responsible for all possible consequences of misuse.
+This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
+Additionally, it enables plug-in support for users.
+Install their own plugins to the original software and use as they please.
+Usage is entirely the responsibility of the user. The operating system is not responsible.
+THANK YOU!🙏]
 
 
 👇CLICK WA lOGO TO JOIN PUBLIC BOT GROUP👇
@@ -82,7 +89,7 @@ $ node alexaqueen.js
 
   </div
 
-### 👄 ALEXA QUEEN_V2 👄 WEBSITE⤵💻
+### 👄 ALEXA QUEEN_V2 👄 WEBSITE⤵💻]
 
 [![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://alexa_v2cyberxkid.blogspot.com)
 
