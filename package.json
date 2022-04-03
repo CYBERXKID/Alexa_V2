@@ -1,14 +1,14 @@
 {
-  "name": "Maalutty",
+  "name": "Alexa Queen",
   "version": "7.3.6",
-  "description": "Maalutty is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-  "main": "./Maalutty_V2/bot.js",
+  "description": "Alexa is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "main": "./Alexa_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nijin-husni/Maalutty_V2.git"
+    "url": "git+https://github.com/CYBERXKID/Alexa_V2.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "nijin-husni",
-  "developer": "@nijin-husni / @nijin-husni",
+  "author": "CYBERXKID",
+  "developer": "@CYBERXKID / @CYBERXKID?MMHERE'S AN 🅰🅿🅿 TO TYPE 𝓬𝓸𝓸𝓵 F͜O͜N͜T͜S͜ - HTTPS://FONTS.EASYLIFE.STUDIO",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/nijin-husni/Maalutty_V2/issues"
-  },
-  "homepage": "https://github.com/nijin-husni/Maalutty_V2#readme",
+    "url": "https://github.com/CYBERXKID/Alexa_V2/issues"
+  }
+  "homepage": "https://github.com/CYBERXKID/Alexa_V2#readme",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
