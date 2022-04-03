@@ -158,7 +158,7 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "*CYBERXKID song download aakkatte😀*"
+            "value": "*ALEXA song download aakkatte😀*"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
