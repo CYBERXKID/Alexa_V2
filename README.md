@@ -21,23 +21,23 @@ Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CYBERXKID/Alexa_V2&title=Alexa_V2%20Views)
 
-get extra feturs use alexaqueen v3😍⏬
+👇👄GET EXTRA FETURS USE ALEXA QUEEN_V3👄👇
 
 [![Alexa queen Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBERXKID&repo=ALEXA_V3&theme=nightowl)](https://github.com/CYBERXKID/ALEXA_V3)
   </div>
     
 
-## 🎩Setup🎩
+## 🎩SETUP🎩
 <div align="center">
 
-  ### 👅Simple Method👅
+  ### 👅SIMPLE METHOD👅
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa_V2) 
  
-### 🤒The Hard Method🤒
+### 🤒THE HARD METHOD🤒
 ```js
 GET QR
 $ apt install git
@@ -72,15 +72,8 @@ $ node alexaqueen.js
 </p>
 
 
-Click WA logo to Join Support Group 👇
-##Not allowed bots on this group 🔰
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY)
-  <div align="center">
 
-
-Click WA logo to Join public bot Group👇
+👇CLICK WA lOGO TO JOIN PUBLIC BOT GROUP👇
 ##Bots allowed grops 🔰
     <br>
 <br>
@@ -89,7 +82,7 @@ Click WA logo to Join public bot Group👇
 
   </div
 
-### ❤️ ALEXA QUEEN_V2 💙 website⤵️
+### 👄 ALEXA QUEEN_V2 👄 WEBSITE⤵💻
 
 [![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://alexa_v2cyberxkid.blogspot.com)
 
