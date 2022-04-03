@@ -31,10 +31,10 @@ Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make 
 <div align="center">
 
   ### 👅SIMPLE METHOD👅
- 
+ 👄SCAN NEW V2 ALEXA QR👄
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
-
+👄DEPLOY NEW V2_ALEXA👄
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa_V2) 
  
 ### 🤒THE HARD METHOD🤒
@@ -46,7 +46,7 @@ $ git clone https://github.com/CYBERXKID/Alexa_V2
 $ cd Alexa_V2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node maalutty.js
+$ node alexa_v2.js
 ```
       
 ```js
