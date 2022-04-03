@@ -124,10 +124,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "❤️CYBERXKID_V2💙"
+            "value": "❤️ALEXA QUEEN_V2💙"
         },
         "WORK_TYPE": {
-            "description": "CYBERXKID Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "ALEXA Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
