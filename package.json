@@ -1,7 +1,8 @@
+
 {
-  "name": "Alexa Queen",
+  "name": "Alexa_V2",
   "version": "7.3.6",
-  "description": "Alexa is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "description": "maalutty is the Modified Version of WhatsAsena, Made By @nijin-husni with Baileys.",
   "main": "./Alexa_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -17,14 +18,15 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "CYBERXKID",
-  "developer": "@CYBERXKID / @CYBERXKID?MM",
+  "author": "nijin-husni",
+  "developer": "@nijin-husni / @nijin-husni",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/CYBERXKID/Alexa_V2/issues"
-  }
+  },
   "homepage": "https://github.com/CYBERXKID/Alexa_V2#readme",
   "dependencies": {
+    "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
     "browser-id3-writer": "^4.4.0",
