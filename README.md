@@ -1,6 +1,6 @@
 <h3 align="center">👄ALEXA QUEEN_V2👄</h3>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+ALEXA-QUEEN_V2+WA+Bot...;Created+by+cyber+and+kidd...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=WELCOME+tTO+ALEXA-QUEEN_V2+WA+Bot...;CREATED+BY+CYBER+KIDD...;ThIS+IS+A+Bgm+stickerbot...;WJTH+MORE+FEATURES...)](https://git.io/typing-svg)
 
 <div align="center">
   <img border-radius: 15px src="https://te.legra.ph/file/4aa16871f1c6644196856.png/Alexaqueen.png" width="200" height="200"/>
@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make 
   
 ╭─ ❑「 DEPLOYING BUTTON」❑──
 │ 
-│ 
+│                 V_2
 │ 
 │
 ╰❑
