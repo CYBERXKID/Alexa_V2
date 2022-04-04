@@ -85,6 +85,8 @@ Usage is entirely the responsibility of the user. The operating system is not re
 THANK YOU!🙏]
 
 
+**[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/27638196983?text=Can%20you%20help%20bro)**
+
 👇CLICK WA lOGO TO JOIN PUBLIC BOT GROUP👇
 ##Bots allowed grops 🔰
     <br>
