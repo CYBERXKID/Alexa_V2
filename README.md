@@ -34,7 +34,12 @@ Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make 
  👄SCAN NEW V2 ALEXA QR👄
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
-👄DEPLOY NEW V2_ALEXA👄
+╭─ ❑「 DEPLOYING BUTTON」❑──
+│ 
+│ 
+│ 
+│
+╰❑
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa_V2) 
  
 ### 🤒THE HARD METHOD🤒
