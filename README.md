@@ -25,6 +25,10 @@ Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CYBERXKID/Alexa_V2&title=Alexa_V2%20Views)
 
+### 💋TOTAL REPO VIEWS💋
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+  
+
 👇👄GET EXTRA FETURS USE ALEXA QUEEN_V3👄👇
 
 [![Alexa queen Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBERXKID&repo=ALEXA_V3&theme=nightowl)](https://github.com/CYBERXKID/ALEXA_V3)
