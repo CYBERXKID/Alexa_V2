@@ -10,7 +10,7 @@
     "stack": "container",
     "env": {
         "ALEXA_SESSION": {
-            "description": "Type here yours CYBERXKID Session.",
+            "description": "Type here yours ALEXA Session.",
             "required": true
         },
         "SUDO": {
