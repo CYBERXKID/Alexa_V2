@@ -2,7 +2,7 @@
 {
   "name": "Alexa_V2",
   "version": "7.3.6",
-  "description": "maalutty is the Modified Version of WhatsAsena, Made By @nijin-husni with Baileys.",
+  "description": "aléxa is the Modified Version of WhatsAsena, Made By @CYBERXKID with Baileys.",
   "main": "./Alexa_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
