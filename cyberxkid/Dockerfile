@@ -6,3 +6,5 @@ RUN npm install supervisor -g
 RUN yarn install --no-audit
 RUN git clone https://github.com/CYBERXKID/uploads
 CMD ["node", "bot.js"]
+
+/*Editing may result in errors so don't edit anything*/
