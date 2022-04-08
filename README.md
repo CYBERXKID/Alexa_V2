@@ -93,7 +93,7 @@ Usage is entirely the responsibility of the user. The operating system is not re
 THANK YOU!🙏]
 
 
-**[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/27638196983?text=Can%20you%20help%20bro)**
+**[![CYBERX-KIDD](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/27686881509?text=Can%20you%20help%20bro)**
 
 👇CLICK WA lOGO TO JOIN PUBLIC BOT GROUP👇
 ##Bots allowed grops 🔰
@@ -117,7 +117,7 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developer
+##👨‍💻DEVELOPER👨‍💻
   <div align="center">
     
 ![CYBERXKID](https://github.com/CYBERXKID.png?size=100)
