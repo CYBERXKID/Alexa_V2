@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make 
 
   ### 👅SIMPLE METHOD👅
  👄SCAN NEW V2 ALEXA QR👄
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DESIGNERKING/ALEXA-QR)
   
 ╭─ ❑「 DEPLOYING BUTTON」❑──
 │ 
