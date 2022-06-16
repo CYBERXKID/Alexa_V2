@@ -43,11 +43,7 @@ Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DESIGNERKING/ALEXA-QR)
   
 ╭─ ❑「 DEPLOYING BUTTON」❑──
-│ 
-│                 V_2
-│ 
-│
-╰❑
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa_V2) 
  
 ### 🤒THE HARD METHOD🤒
