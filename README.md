@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make 
 <div align="center">
 
   ### 👅SIMPLE METHOD👅
- 👄SCAN 
+ 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DESIGNERKING/ALEXA-QR)
   
 ╭─ ❑「 DEPLOYING BUTTON」❑──
