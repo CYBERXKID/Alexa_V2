@@ -4,7 +4,7 @@
 <img src=https://te.legra.ph/file/f3cc4078f4498b3e37d9c.jpg>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=WELCOME+TO+ALEXA-QUEEN_V2+WA+Bot...;CREATED+BY+CYBER+KIDD...;ThIS+IS+A+Bgm+stickerbot...;WITH+MORE+FEATURES...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=WELCOME+TO+ALEXA-QUEEN_V2+WA+BOT...;CREATED+BY+CYBER+KIDD...;ThIS+IS+A+BGM+STICKERBOT...;WITH+MORE+FEATURES...)](https://git.io/typing-svg)
 
 <div align="center">
   <img border-radius: 15px src="https://te.legra.ph/file/298679f09350e391cbf9f.jpg/Alexaqueen.png" width="300" height="300"/>
