@@ -16,7 +16,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make it public
+PROJECT CREATED BY <a href="https://github.com/CYBERXKID">CYBERXKID</a> TO MAKE IT PUBLIC
     <br>
        | © |
         Reserved |
