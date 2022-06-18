@@ -2,7 +2,7 @@
 {
     "name": "ALEXA QUEEN_V2",
     "description": "ALEXA is the Modified Version of WhatsAsena, Made By @nijin-husni with Baileys.",
-    "logo": "https://te.legra.ph/file/298679f09350e391cbf9f.jpg/CYBERXKID.png",
+    "logo": "https://te.legra.ph/file/aaeedc5cc365be576c9d3.jpg/CYBERXKID.png",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/CYBERXKID/Alexa_V2",
     "website":   "https://github.com/CYBERXKID/Alexa_V2",
@@ -148,7 +148,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "https://te.legra.ph/file/298679f09350e391cbf9f.jpg"
+            "value": "https://te.legra.ph/file/aaeedc5cc365be576c9d3.jpg"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
