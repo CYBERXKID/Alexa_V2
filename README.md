@@ -44,7 +44,8 @@ Project created by <a href="https://github.com/CYBERXKID">CYBERXKID</a> to make 
   
 ╭─ ❑「 DEPLOYING BUTTON」❑──
 
-[![Deploy](https://https://i.imgur.com/gtK4XLX.png)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa_V2) 
+ <a href="https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa_V2"target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" at="Deploy bot"height="112" width="310" /></a>
+
  
 ### 🤒THE HARD METHOD🤒
 ```js
