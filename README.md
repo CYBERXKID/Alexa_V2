@@ -1,7 +1,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://te.legra.ph/file/080e829a64c5d0c3916e1.jpg >
+<img src=https://te.legra.ph/file/298679f09350e391cbf9f.jpg >
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=WELCOME+TO+ALEXA-QUEEN_V2+WA+Bot...;CREATED+BY+CYBER+KIDD...;ThIS+IS+A+Bgm+stickerbot...;WITH+MORE+FEATURES...)](https://git.io/typing-svg)
