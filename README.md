@@ -7,7 +7,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=WELCOME+TO+ALEXA-QUEEN_V2+WA+Bot...;CREATED+BY+CYBER+KIDD...;ThIS+IS+A+Bgm+stickerbot...;WITH+MORE+FEATURES...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img border-radius: 15px src="https://te.legra.ph/file/de09cf3e4055ef0f57261.jpg/Alexaqueen.png" width="200" height="200"/>
+  <img border-radius: 15px src="https://te.legra.ph/file/298679f09350e391cbf9f.jpg/Alexaqueen.png" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Alexa_V2" src="https://img.shields.io/badge/Alexa_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
