@@ -45,26 +45,7 @@ PROJECT CREATED BY <a href="https://github.com/CYBERXKID">CYBERXKID</a> TO MAKE 
 ╭─ ❑「 DEPLOYING BUTTON」❑──
 
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa_V2)
- 
-### 🤒THE HARD METHOD🤒
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/CYBERXKID/Alexa_V2
-$ cd Alexa_V2
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node alexa_v2.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/CYBERXKID/Alexa_V2
-$ cd Alexa_V2
-$ npm i
-$ node alexaqueen.js
-```
+
 
 ----
 
@@ -93,7 +74,7 @@ THANK YOU!🙏]
 
 👇CLICK WA lOGO TO JOIN PUBLIC BOT GROUP👇
 ##Bots allowed grops 🔰
-    <br>
+    <br
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Gv3CdQTRQ3Z0UcArqhD3IB)
   <div align="center">
