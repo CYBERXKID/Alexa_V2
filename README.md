@@ -40,7 +40,7 @@ PROJECT CREATED BY <a href="https://github.com/CYBERXKID">CYBERXKID</a> TO MAKE 
 
   ### 👅SIMPLE METHOD👅
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@DESIGNERKING/ALEXA-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Cyberm/QueenAlexaQrCode)
   
 ╭─ ❑「 DEPLOYING BUTTON」❑──
 
