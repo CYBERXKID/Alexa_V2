@@ -83,7 +83,7 @@ THANK YOU!🙏]
 
 ### 👄 ALEXA QUEEN_V2 👄 WEBSITE⤵💻]
 
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://httpsalexa-whatsapp-bot.yolasite.com)
+[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://alexaniwasa.com)
 
 
 ### ⚠️ Warning! 
