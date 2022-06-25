@@ -35,7 +35,7 @@ PROJECT CREATED BY <a href="https://github.com/CYBERXKID">CYBERXKID</a> TO MAKE 
   </div>
     
 
-## 🎩SETUP🎩
+
 <div align="center">
 
   ### 👅SIMPLE METHOD👅
