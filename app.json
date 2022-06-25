@@ -1,11 +1,11 @@
 
 {
     "name": "ALEXA QUEEN_V2",
-    "description": "ALEXA is the Modified Version of WhatsAsena, Made By @nijin-husni with Baileys.",
+    "description": "ALEXA is the Modified Version of WhatsAsena, Made By @Cyberxkid with Baileys.",
     "logo": "https://te.legra.ph/file/aaeedc5cc365be576c9d3.jpg/CYBERXKID.png",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/CYBERXKID/Alexa_V2",
-    "website":   "https://github.com/CYBERXKID/Alexa_V2",
+    "website":   "https://alexaniwasa.yolasite.com",
     "success_url": "https://github.com/CYBERXKID/Alexa_V2",
     "stack": "container",
     "env": {
